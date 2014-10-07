@@ -16,4 +16,4 @@ ___
 4. after the photo 
 5. of a kitten.
 
-_That is all._
+_That's all there is. There isn't any more._
