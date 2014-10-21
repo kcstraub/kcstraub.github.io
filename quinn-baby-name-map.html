@@ -24,8 +24,8 @@ html, body, #googft-mapCanvas {
       viewport.setAttribute('content', 'initial-scale=1.0, user-scalable=no');
     }
     var mapDiv = document.getElementById('googft-mapCanvas');
-    mapDiv.style.width = isMobile ? '100%' : '500px';
-    mapDiv.style.height = isMobile ? '100%' : '300px';
+    mapDiv.style.width = isMobile ? '100%' : '700';
+    mapDiv.style.height = isMobile ? '100%' : '500';
     var map = new google.maps.Map(mapDiv, {
       center: new google.maps.LatLng(52.830978096839004, -95.66545425000004),
       zoom: 3,
@@ -71,7 +71,7 @@ html, body, #googft-mapCanvas {
 </head>
 
 <body>
-<h3> Map of babies named "Quinn" by gender, 2012 </h3>
+<h3> Map of babies named "Quinn" by gender, in the year 2012 </h3>
 <p> Below is a map of babies named "Quinn" in the year 2012. The legend is as follows:
 <ul>
 <li> If a state is pink, more girls than boys were named "Quinn" in that state. </li>
