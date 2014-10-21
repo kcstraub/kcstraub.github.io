@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta name="viewport"></meta>
-<title>Quinn_gender_2012 - Google Fusion Tables</title>
+<title>Quinn_gender_best - Google Fusion Tables</title>
 <style type="text/css">
 html, body, #googft-mapCanvas {
-  height: 300px;
+  height: 500px;
   margin: 0;
   padding: 0;
-  width: 500px;
+  width: 700px;
 }
 </style>
 
@@ -24,10 +24,10 @@ html, body, #googft-mapCanvas {
       viewport.setAttribute('content', 'initial-scale=1.0, user-scalable=no');
     }
     var mapDiv = document.getElementById('googft-mapCanvas');
-    mapDiv.style.width = isMobile ? '100%' : '700';
-    mapDiv.style.height = isMobile ? '100%' : '500';
+    mapDiv.style.width = isMobile ? '100%' : '700px';
+    mapDiv.style.height = isMobile ? '100%' : '500px';
     var map = new google.maps.Map(mapDiv, {
-      center: new google.maps.LatLng(52.830978096839004, -95.66545425000004),
+      center: new google.maps.LatLng(51.646996044757046, -90.39201675000004),
       zoom: 3,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
@@ -38,8 +38,8 @@ html, body, #googft-mapCanvas {
       map: map,
       heatmap: { enabled: false },
       query: {
-        select: "col11",
-        from: "1dhvxLghs1hzOLrXgBwOIzRy0p2G5c-jpOQmd3bMR",
+        select: "col9",
+        from: "1t3Dzwz4EZ6BB1m3z449DIMe1LIIZEiyg5UZSu4A8",
         where: ""
       },
       options: {
