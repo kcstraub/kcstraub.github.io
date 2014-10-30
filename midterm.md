@@ -74,19 +74,21 @@ order by COUNT (leso.`Item Name`) DESC
 LIMIT 10
 
 List of top 10 counties: 
-Los Angeles, CA
-Leon, FL
-Franklin, OH
-Franklin, KY
-Cook, IL
-Ramsey, MN
-Sacremento, CA
-Prince Georges, MD
-Sangamon, IL
+Los Angeles, CA;
+Leon, FL;
+Franklin, OH;
+Franklin, KY;
+Cook, IL;
+Ramsey, MN;
+Sacremento, CA;
+Prince Georges, MD;
+Sangamon, IL;
 Fulton, GA
 
 *Question 4*
- select leso.`Item Name`,  census_quickfacts.fips, leso.county, COUNT (leso.`Item Name`) / census_quickfacts.PST045213 * 1000 as per_100k,
+
+Query: 
+select leso.`Item Name`,  census_quickfacts.fips, leso.county, COUNT (leso.`Item Name`) / census_quickfacts.PST045213 * 1000 as per_100k,
 COUNT (leso.`Item Name`) as tot_gun
 from leso 
 INNER JOIN county_ansi
@@ -106,6 +108,10 @@ order by per_100k DESC
 LIMIT 10
 
 *Question 5*
+
+I was interested in finding out how many air conditioners were provided nationally, by month, by year, through the 1033 program since 2010. After mining that data, I noticed that a traditional bar-style histogram would have been confusing, so I used a line chart instead. 
+
+![img](http://i.imgur.com/AQG7cjN.png)
 
 *Questions 6*
 
@@ -127,6 +133,7 @@ https://www.google.com/fusiontables/data?docid=1gkiEmgpSv_y2X1FYlQetXZLXC4Bd5sc_
 
 *Question 7*
 
+Query: 
 select county_ansi.FIPS, leso.county, leso.state, leso.`Item Name`, leso.Quantity, leso.`Acquisition Cost`, leso.Quantity * leso.`Acquisition Cost` as tot_cost, 
 SUM (leso.Quantity * leso.`Acquisition Cost`)
 from leso
