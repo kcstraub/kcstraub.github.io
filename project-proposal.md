@@ -48,10 +48,13 @@ Also, I need to get my hands on some internal records from police departments in
 #### STORIES ON THE SUBJECT:
 A lot of the stories I’ve read on the issue are focused on who to “appropriately tweet,” or explain which social media platforms are the most useful by occasion, tone, message, and audience. I found a couple from news outlets, as well as some guidelines from police agencies themselves. They are listed below. 
 
-http://www.entrepreneur.com/article/233604
-http://www.iacpsocialmedia.org/
-http://www.securitymanagement.com/article/police-embrace-social-media-009175
-http://www.ozy.com/fast-forward/how-the-police-are-using-pinterest-to-fight-crime/31049
+      http://www.entrepreneur.com/article/233604
+      
+      http://www.iacpsocialmedia.org/
+      
+      http://www.securitymanagement.com/article/police-embrace-social-media-009175
+      
+      http://www.ozy.com/fast-forward/how-the-police-are-using-pinterest-to-fight-crime/31049
 
 #### ROUGH TIMELINE:
 
