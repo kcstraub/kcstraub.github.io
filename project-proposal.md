@@ -16,34 +16,34 @@ Additionally, I would assume that the level of engagement from followers increas
 
 ####MY “STARTER” DATA SOURCES:
 
-1. First, and most importantly, I need to track police department content as it comes out. I know I can learn how to do this over Twitter, after we used some SQL data collected about Congressional tweeting. I want to learn how to run that program and programs like it to create at least 3 starting data sources, which should include the following subsets of information about them:
-Twitter accounts of SMC and SCC police departments
-o	Account name
-o	Time of tweet 
-o	Category (original tweet v. retweet)
-o	Number of favorites, number of retweets on that particular tweet
-o	Text/message of the tweet (quoted exactly)
-o	Photo, if included
-o	Link to another page, if included (and a copy of link)
-Facebook pages of SMC and SCC police departments
-o	Account name
-o	Time of status update/post
-o	Category of status update/post (original, share, etc.)
-o	Number of likes
-o	Number of comments (and content?)
-o	Texy/message of the update/post (quoted exactly)
-o	Photo, if included
-o	Link to another page, if included (and a copy of that link)
-YouTube/Vimeo channels of SMC and SCC police departments
-o	Account name
-o	Time of uploaded video
-o	Number of thumbs up, or “rating”
-o	Length of video
-o	Number of comments
+First, and most importantly, I need to track police department content as it comes out. I know I can learn how to do this over Twitter, after we used some SQL data collected about Congressional tweeting. I want to learn how to run that program and programs like it to create at least 3 starting data sources, which should include the following subsets of information about them:
+  - Twitter accounts of SMC and SCC police departments
+      - Account name
+      - Time of tweet 
+      - Category (original tweet v. retweet)
+      - Number of favorites, number of retweets on that particular tweet
+      - Text/message of the tweet (quoted exactly)
+      - Photo, if included
+      - Link to another page, if included (and a copy of link)
+  - Facebook pages of SMC and SCC police departments
+      - Account name
+      - Time of status update/post
+      - Category of status update/post (original, share, etc.)
+      - Number of likes
+      - Number of comments (and content?)
+      - Text/message of the update/post (quoted exactly)
+      - Photo, if included
+      - Link to another page, if included (and a copy of that link)
+  - YouTube/Vimeo channels of SMC and SCC police departments
+      - Account name
+      - Time of uploaded video
+      - Number of thumbs up, or “rating”
+      - Length of video
+      - Number of comments
 
-If somehow possible, I want to track users of each of these media and see if/how they overlap. 
+A KEY NOTE: If somehow possible, I want to track users of each of these media and see if/how they overlap. I will have to look into the types of programs that can make this clear for me, as I am not sure I want to do that all by hand (ugh).
 
-2. I need to get my hands on some internal records from police departments in the area, based on my searches from the above data sources, to get a sense of which cases received help/tips from social media. A lot of this information, I believe, comes through a technology called “Nixel.” (I need to get to the bottom of this… more to come.)
+Also, I need to get my hands on some internal records from police departments in the area, based on my searches from the above data sources, to get a sense of which cases received help/tips from social media. A lot of this information, I believe, comes through a technology called “Nixel.” (I need to get to the bottom of this… more to come.)
 
 #### STORIES ON THE SUBJECT:
 A lot of the stories I’ve read on the issue are focused on who to “appropriately tweet,” or explain which social media platforms are the most useful by occasion, tone, message, and audience. I found a couple from news outlets, as well as some guidelines from police agencies themselves. They are listed below. 
