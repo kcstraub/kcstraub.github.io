@@ -59,6 +59,20 @@ A lot of the stories I’ve read on the issue are focused on who to “appropria
 #### ROUGH TIMELINE:
 
 Week 1, Nov. 11 – Nov. 16: 
+> Research and "stake out" (as they say) all social media platforms of the local SMC and SCC police departments. Make a list of all those who have active social media and which platforms they use. Plan for my program-based data collection accordingly. Perhaps begin brainstorming a map of which platforms are used where (possible visualization, preliminarily).
+Learn to write the necessary programs for the "sources" section listed above. I will most definitely have to consult you on this, because I will be a bit in the dark here. Put the necessary programs in place by the end of this week and start collecting that data. 
+Find supplemental data from the census to make my hypothesis more clear. These data will include household income rates by city/county, as well as data around internet access for a city/county. (I am currently less than clear about how to track down these data, though I had the idea of approaching internet servers and getting their numbers eariler this quarter. I will get an early start on this.)
+
 Week 2, Nov. 17 – Nov. 23:
+> Finalize all writing of programs and watch the data start to pile up -- by the middle of this week at the VERY latest.
+Reach out to local police departments of interest to get a copy of their social media plans. A lot of police are very willing to share this (i.e., the Mountain View Police, and the Redwood City Police social media policy is found online). I want to have this in my possession so I have a sense of the issue, though I don't know that it will yield very much data. 
+Also, research local, recent cases that were solved with the help of suggestions and tips from social media. This will be good anecdotal supplement to my data research, and it will likely tip me off to more sources I will need to find. 
+I don't think I will run into too much of an issue with timing on this, because I believe the police will still be as active as ever on Thanksgiving week. 
+
 Week 3, Nov. 24 – Nov. 30:
+> Over break, I plan on really taking a hard look at all data I have collected over the prior two weeks. By then, I will have had plenty of understanding of the data coming in, and I will begin to collect it and formulate a conclusion to my hypothesis -- seeing whether or not trends have developed (using excel and SQL and data cleaning software to aid my efforts) and discovering which conclusions can be made for which county. At this point, I will also see if I can extend my efforts outside of the Peninsula to incorporate any more of the state for comparison. In sum, this is my "crunch week," in which I really see how the numbers turn out and make the appropriate pivots into alternative, generalized conclusions if they are less than conclusive. 
+I will also dedicate this week to the formulation of appropriate data visualization projects to accompany my final. I want to move away from Fusion Tables and use more sophisticated softwares using QGIS, TileMill and other necessary "beautifying software." At this point, I will likely have also learned Tableau to a level of comfort and will formulate the appropriate visualizations through that. I anticipate at least one map, along with charts, graphs, and perhaps a bonified Adobe Illustrator picture, to great an infographic. I intend to have several drafts coming out of this week.
+
+Week 4, Dec. 1 - Dec. 7:
+> In this final week, I am allowing myself time to make up any lost ground I amassed along the way, in the event that I fell behind. I can wrap up editing on my text, finish the data viz, and double check all my numbers.
 
